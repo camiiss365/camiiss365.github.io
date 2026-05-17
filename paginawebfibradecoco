@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<title>Soluciones térmicas sustentables</title>
+
+<style>
+
+body{
+font-family:Arial;
+margin:0;
+background-color:#eef5fb;
+}
+
+nav{
+background-color:#2c3e50;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+header{
+background-image:url("https://www.aislamientodefachadas.com/wp-content/uploads/2021/06/mejor-aislante-termico.jpg");
+background-size:cover;
+background-position:center;
+height:300px;
+color:white;
+text-align:center;
+padding-top:120px;
+}
+
+header h1{
+font-size:40px;
+background-color:rgba(0,0,0,0.5);
+display:inline-block;
+padding:10px;
+}
+
+header p{
+background-color:rgba(0,0,0,0.5);
+display:inline-block;
+padding:5px;
+}
+
+section{
+background-color:white;
+margin:20px;
+padding:20px;
+border-radius:15px;
+box-shadow:2px 2px 10px gray;
+}
+
+h2{
+color:blue;
+}
+
+img{
+border-radius:10px;
+margin-top:10px;
+}
+
+.integrantes{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+justify-content:center;
+text-align:center;
+}
+
+.persona{
+background-color:#eef5fb;
+padding:15px;
+border-radius:10px;
+width:150px;
+}
+
+.persona img{
+width:120px;
+height:120px;
+object-fit:cover;
+}
+
+footer{
+background-color:#2c3e50;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<a href="#intro">Introducción</a>
+<a href="#matematicas">Matemáticas</a>
+<a href="#clima">Clima</a>
+<a href="#fibra">Fibra de coco</a>
+<a href="#tabla">Resultados</a>
+<a href="#conclusion">Conclusión</a>
+</nav>
+
+<header>
+
+<h1>Soluciones térmicas sustentables para viviendas</h1>
+
+<p>PROYECTO 10MO</p>
+
+</header>
+
+<section id="intro">
+
+<h2>Introducción</h2>
+
+<p>
+En Los Cabos el clima desértico provoca temperaturas muy altas durante el día
+y noches frías. Por esta razón investigamos materiales aislantes capaces de
+mantener una temperatura más estable dentro de las viviendas.
+</p>
+
+<p>
+Nuestro proyecto compara una casa convencional y una casa con fibra de coco
+como aislante térmico para analizar costos y eficiencia.
+</p>
+
+</section>
+
+<section id="matematicas">
+
+<h2>Modelación lineal de costos</h2>
+
+<p>
+Se utilizó un modelo lineal:
+</p>
+
+<ul>
+<li>y = mx + b</li>
+<li>y = costo total acumulado</li>
+<li>x = tiempo en meses</li>
+<li>b = costo inicial</li>
+<li>m = gasto mensual</li>
+</ul>
+
+<h3>Costos iniciales</h3>
+
+<p><b>Casa convencional</b></p>
+
+<ul>
+<li>MDF: 180 pesos</li>
+<li>Pintura: 40 pesos</li>
+<li>Silicón: 35 pesos</li>
+<li>Total: 255 pesos</li>
+</ul>
+
+<p><b>Casa con aislante</b></p>
+
+<ul>
+<li>MDF: 180 pesos</li>
+<li>Pintura: 40 pesos</li>
+<li>Silicón: 50 pesos</li>
+<li>Fibra de coco: 170 pesos</li>
+<li>Total: 440 pesos</li>
+</ul>
+
+<h3>Ecuaciones</h3>
+
+<ul>
+<li>Casa convencional: y = 300x + 255</li>
+<li>Casa térmica: y = 180x + 440</li>
+</ul>
+
+<h3>Punto de equilibrio</h3>
+
+<p>
+El costo extra del aislante se recupera aproximadamente en 1.5 meses.
+Después de ese tiempo la casa térmica resulta más económica.
+</p>
+
+</section>
+
+<section id="clima">
+
+<h2>Clima desértico</h2>
+
+<ul>
+<li>Temperaturas altas durante el día.</li>
+<li>Noches frías.</li>
+<li>Poca humedad.</li>
+<li>Escasa lluvia.</li>
+<li>Poca vegetación.</li>
+</ul>
+
+<h3>Importancia de los aislantes</h3>
+
+<p>
+Los materiales aislantes ayudan a mantener las casas frescas durante el día
+y cálidas durante la noche.
+</p>
+
+</section>
+
+<section id="fibra">
+
+<h2>Fibra de coco como aislante</h2>
+
+<img src="https://d2r9epyceweg5n.cloudfront.net/stores/002/054/802/rte/fibra-de-coco.jpg" width=80%>
+
+<p>
+La fibra de coco es un material natural obtenido de la cáscara del coco.
+Su estructura atrapa aire y reduce el paso del calor.
+</p>
+
+<h3>Ventajas</h3>
+
+<ul>
+<li>Ecológica y biodegradable.</li>
+<li>Reduce cambios de temperatura.</li>
+<li>Ayuda a ahorrar energía.</li>
+<li>Puede utilizarse en techos y muros.</li>
+</ul>
+
+</section>
+
+<section id="tabla">
+
+<h2>Resultados del experimento</h2>
+
+<p>
+Durante 8 horas registramos la temperatura de una casa convencional y una
+casa con aislante térmico para comparar los cambios de temperatura.
+</p>
+
+<p>
+En los resultados se puede observar que la casa sin aislante alcanzó
+temperaturas más altas y tuvo cambios más bruscos, mientras que la casa
+con fibra de coco mantuvo una temperatura más estable.
+</p>
+
+<img src="https://camiiss365.github.io/IMG_9781.jpeg"
+width=95%>
+<seccion>
+<iframe width="560" height="315"
+src="https://camiiss365.github.io/copy_930FE3A6-24D1-4B5E-B6A7-393ECDC7DD10.mov"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+</section>
+
+<section id="conclusion">
+
+<h2>Conclusión</h2>
+
+<p>
+La fibra de coco puede funcionar como un aislante térmico eficiente para
+viviendas en zonas desérticas. Además de ser ecológica, ayuda a mantener
+temperaturas más estables y disminuir gastos a largo plazo.
+</p>
+
+<h3>Integrantes</h3>
+
+<div class="integrantes">
+
+<div class="persona">
+<img src="https://camiiss365.github.io/IMG_9387.jpeg">
+<p>Camila</p>
+</div>
+
+<div class="persona">
+<img src="https://camiiss365.github.io/IMG_1336.jpeg">
+<p>Kalev</p>
+</div>
+
+<div class="persona">
+<img src="https://camiiss365.github.io/IMG_1332.jpeg">
+<p>Josue</p>
+</div>
+
+<div class="persona">
+<img src="https://camiiss365.github.io/IMG_1337.jpeg">
+<p>Karime</p>
+</div>
+
+<div class="persona">
+<img src="https://camiiss365.github.io/IMG_1328.jpeg">
+<p>Maria</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>Proyecto escolar 2026</p>
+
+</footer>
+
+</body>
+</html>
